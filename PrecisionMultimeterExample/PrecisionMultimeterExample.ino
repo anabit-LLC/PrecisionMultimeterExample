@@ -3,7 +3,7 @@ This Arduino sketch is meant to work with Anabit's Precision Multimeter product 
 Benchtop DMM performance with measurement resolutions of 6.5+ digits. The Precision Multimeter supports DCV, ACV, 2-wire resistance,
 4-wire resistance, DCI, ACI.
 
-Product link:
+Product link: https://anabit.co/products/precision-multimeter-open-source
 
 This example sketch demonstrates how to make high accuracy and high resolution measurements with Anabit's Precision Multimeter.
 This sketch can make DC voltage, resistance, and DC Current measurements. To use this sketch your arduino needs to support hardware 
